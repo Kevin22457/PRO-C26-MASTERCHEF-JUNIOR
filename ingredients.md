@@ -1,4 +1,4 @@
-  Quantity | ingredients 
+  Quantity | Ingredients 
   ---- | ----
    100 | Gram Maida
    40 | Gram Milk Powder
@@ -8,3 +8,5 @@
    2 | tea spoon CoCo Powder
    60 | gram Butter
    100 | ml Milk
+   ----
+   # [goBack](readme.md)
