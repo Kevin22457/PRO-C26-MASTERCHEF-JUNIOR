@@ -4,4 +4,4 @@ Welcome friends , Today we are going to make the Chocolate Cake with my new spec
 ----
 ## [Ingredients](ingredients.md)
 ## [Recipes](recipe.md)
-![Yummy] (Cake.jpg) 
+![Yummy] (Cake.jfif) 
